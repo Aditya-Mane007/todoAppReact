@@ -14,15 +14,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm run server`
-
-Runs the JSON server, for CRUD Functionalities.
-<<<<<<< HEAD
-Open [http://localhost:4000/tooos/](http://localhost:4000/todos) to view it in your browser.
-=======
-Open [http://localhost:4000/todos/](http://localhost:4000/todos) to view it in your browser.
->>>>>>> ba2f1d12d386185260fe1e4dda4359fd11e1737c
-
 
 ### `npm run build`
 
