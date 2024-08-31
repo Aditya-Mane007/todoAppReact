@@ -6,7 +6,7 @@ function Navbar() {
     <div className="navbar">
       <div className="logo">TODO</div>
       <a
-        href="https://github.com/Aditya-Mane007/todoApp"
+        href="https://github.com/Aditya-Mane007/todoAppReact"
         target="_blank"
         rel="noreferrer"
       >
